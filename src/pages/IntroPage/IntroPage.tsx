@@ -26,7 +26,7 @@ export function IntroPage({
         </span>
       </div>
       <button type="button" className={styles.startButton} onClick={onStart}>
-        시작하기
+        시작
       </button>
     </div>
   );
