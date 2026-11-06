@@ -1,0 +1,33 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 0.5rem;
+  padding: 2rem 1rem;
+}
+
+.score {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--color-primary);
+}
+
+.maxScore {
+  font-size: 1.25rem;
+  font-weight: 400;
+  color: var(--color-text-muted);
+}
+
+.bandTitle {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 0;
+}
+
+.bandDescription {
+  font-size: 1rem;
+  color: var(--color-text-muted);
+  max-width: 28rem;
+  margin: 0;
+}
