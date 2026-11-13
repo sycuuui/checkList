@@ -1,7 +1,7 @@
 import type { ChecklistDefinition } from "../types/checklist";
 
 export const gad7Checklist: ChecklistDefinition = {
-  title: "불안증상\n자가진단 척도 (GAD-7)",
+  title: "불안 자가진단 척도\n(GAD-7)",
   description:
     "간단한 심리검사로\n나의 불안 파도 높이를 확인해 보세요.\n\n지난 2주간, 다음의 문제들로 인해\n얼마나 자주 방해를 받았는지\n체크해 주시기 바랍니다.",
   options: [
