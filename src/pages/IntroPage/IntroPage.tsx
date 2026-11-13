@@ -22,7 +22,7 @@ export function IntroPage({
       </div>
       <div className={styles.mascot}>
         <span className={styles.mascotEmoji} role="img" aria-label="웃는 얼굴">
-          🙂
+          🌊
         </span>
       </div>
       <button type="button" className={styles.startButton} onClick={onStart}>
