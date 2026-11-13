@@ -3,7 +3,7 @@ import type { ChecklistDefinition } from "../types/checklist";
 export const gad7Checklist: ChecklistDefinition = {
   title: "불안증상 자가진단 척도 (GAD-7)",
   description:
-    "안녕하세요. 안양대학교 학생상담센터입니다. 학생상담센터는 안양대학교 재학생 여러분의 대학생활 적응과 심리건강 증진을 돕기 위한 상담기관입니다. 이번 [찾아가는 마음건강: 불안 파도타기]에서는 내 마음속에 치는 불안의 파도를 점검하고, 안전하게 항해할 수 있는 방법을 찾아가도록 돕고자 합니다. 간단한 심리검사로 '나의 불안 파도 높이'를 확인해 보세요.",
+    "간단한 심리검사로 '나의 불안 파도 높이'를 확인해 보세요.\n\n지난 2주간, 다음의 문제들로 얼마나 자주 방ㅎ를 받았는지 체크해주세요.\n총 7문항",
   options: [
     { label: "전혀 방해받지 않았다", score: 0 },
     { label: "며칠 동안 방해받았다", score: 1 },
